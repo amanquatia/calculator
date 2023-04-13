@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/kofiamankwatiaZHP3R/Calculator/_apis/build/status%2Famanquatia.calculator?branchName=addition-cleanup)](https://dev.azure.com/kofiamankwatiaZHP3R/Calculator/_build/latest?definitionId=1&branchName=addition-cleanup)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
